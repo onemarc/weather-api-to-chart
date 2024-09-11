@@ -1,0 +1,210 @@
+{
+    "cnt": 5,
+    "list": [
+        {
+            "coord": {
+                "lon": -119.7513,
+                "lat": 37.2502
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -25200,
+                "sunrise": 1726061902,
+                "sunset": 1726107167
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 16.94,
+                "feels_like": 15.76,
+                "temp_min": 15.62,
+                "temp_max": 19.7,
+                "pressure": 1009,
+                "sea_level": 1009,
+                "grnd_level": 956,
+                "humidity": 41
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.54,
+                "deg": 70
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1726064112,
+            "id": 5332921,
+            "name": "California"
+        },
+        {
+            "coord": {
+                "lon": -97.7431,
+                "lat": 30.2672
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -18000,
+                "sunrise": 1726056820,
+                "sunset": 1726101688
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 24.3,
+                "feels_like": 25,
+                "temp_min": 23.18,
+                "temp_max": 25.21,
+                "pressure": 1011,
+                "sea_level": 1011,
+                "grnd_level": 994,
+                "humidity": 85
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.63,
+                "deg": 40
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1726064083,
+            "id": 4671654,
+            "name": "Austin"
+        },
+        {
+            "coord": {
+                "lon": -82.5001,
+                "lat": 28.7505
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -14400,
+                "sunrise": 1726053200,
+                "sunset": 1726097993
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 28.03,
+                "feels_like": 31.72,
+                "temp_min": 27.08,
+                "temp_max": 28.89,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 1010,
+                "humidity": 77
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.09,
+                "deg": 80
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1726064068,
+            "id": 4155751,
+            "name": "Florida"
+        },
+        {
+            "coord": {
+                "lon": -75.4999,
+                "lat": 43.0004
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -14400,
+                "sunrise": 1726051074,
+                "sunset": 1726096759
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 16.13,
+                "feels_like": 15.65,
+                "temp_min": 15.29,
+                "temp_max": 17.8,
+                "pressure": 1023,
+                "sea_level": 1023,
+                "grnd_level": 988,
+                "humidity": 71
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.55,
+                "deg": 134
+            },
+            "clouds": {
+                "all": 38
+            },
+            "dt": 1726064097,
+            "id": 5128638,
+            "name": "New York"
+        },
+        {
+            "coord": {
+                "lon": -87.65,
+                "lat": 41.85
+            },
+            "sys": {
+                "country": "US",
+                "timezone": -18000,
+                "sunrise": 1726054036,
+                "sunset": 1726099628
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 20.11,
+                "feels_like": 19.74,
+                "temp_min": 18,
+                "temp_max": 21.66,
+                "pressure": 1019,
+                "sea_level": 1019,
+                "grnd_level": 998,
+                "humidity": 60
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.68,
+                "deg": 152
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1726064086,
+            "id": 4887398,
+            "name": "Chicago"
+        }
+    ]
+}
