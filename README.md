@@ -11,9 +11,11 @@ An application that requests weather information for specific cities via an open
 ### To install all required libraries, run:
 
 ```bash
-pip install requests
-
-pip install matplotlib
+pip install -r requirements.txt
+```
+#### or
+```bash
+pip install requests matplotlib
 ```
 
 ### The diagram that will be created after the program is executed:
